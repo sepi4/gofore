@@ -22,3 +22,5 @@ You need latests nodejs
 - run `npm install`
 - run all tests: `npx playwright test`
   - playwright should give you information in terminal if need to install anything else (especially if you have not run playwright on your machine before)
+  - https://playwright.dev/docs/intro
+- check report (traces) `npx playwright show-report`
